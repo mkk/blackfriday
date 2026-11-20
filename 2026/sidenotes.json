@@ -1,0 +1,18 @@
+{
+  "name": "SideNotes",
+  "url": "https://www.apptorium.com/sidenotes",
+  "description": "Quick-access notes at the edge of your Mac, with Markdown, folders, iCloud sync, Shortcuts and AppleScript",
+  "category": "writing",
+  "platforms": ["mac"],
+  "deal": "35% off one-time purchase",
+  "pricing": "one-time",
+  "price": {
+    "regular": 19.99,
+    "sale": 12.99,
+    "currency": "USD"
+  },
+  "discount": 35,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-06",
+  "icon": "https://www.apptorium.com/shared/sidenotes.png"
+}

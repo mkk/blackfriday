@@ -1,0 +1,18 @@
+{
+  "name": "License Store",
+  "url": "https://www.apptorium.com/license-store",
+  "description": "Native Mac library for software licenses, files, receipts, download links, notes and expiration dates",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "50% off one-time purchase",
+  "pricing": "one-time",
+  "price": {
+    "regular": 7.99,
+    "sale": 3.99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-06",
+  "icon": "https://www.apptorium.com/shared/license-store.png"
+}
